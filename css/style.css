@@ -165,7 +165,7 @@ a:focus {
 .carousel {
     position: relative;
     width: 100%;
-    min-height: 350px;
+    min-height: 300px;
     background: #ffffff;
     margin-bottom: 45px;
 }
@@ -177,7 +177,7 @@ a:focus {
 .carousel .carousel-item {
     position: relative;
     width: 100%;
-    min-height: 350px;
+    min-height: 300px;
     display: flex;
     align-items: center;
     justify-content: center;
